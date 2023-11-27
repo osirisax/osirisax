@@ -31,30 +31,6 @@
   - Conducted a comprehensive study to enhance ML methodologies for failure analysis in microelectronic systems.
 
 
-## Academic Projects
-
-- **Deep Learning Project**
-  - ENS Paris-Saclay, Gif-sur-Yvette, France
-  - Nov. 2023 -- Jan. 2024
-  - Implemented Vector Quantized VAE model for Image compression using Pytorch.
-
-- **Computer Vision Project**
-  - Ecole des Mines, Saint-Étienne, France
-  - Nov. 2022 -- Jan. 2023
-  - Implemented an automatic classification system for skin lesions using image processing and ML algorithms.
-
-## Volunteer and Associative Experience
-
-- **Secretary**
-  - Mines International Students, Saint-Etienne, France
-  - April 2022 -- June 2023
-  - Facilitated the integration of 45 international students from over 10 different countries.
-
-- **Mathematics Tutor**
-  - Aplus association, Fez, Morocco
-  - March 2020 -- August 2021
-  - Provided online tutoring in Mathematics to high school students in rural areas of Fez during the lockdown period.
-
 ## Technical Skills
 
 - **Programming Languages**: Python, R, Java, C, SQL
@@ -66,4 +42,11 @@
 - **Languages**: French (fluent), English (proficient), Spanish (beginner)
 
 
+## Some projects
 
+- [Skin lesions classification](https://github.com/osirisax/Skin-lesion-classification-project)
+  - `Image Processing` `Pytorch` `Deep Learning` `Machine learning` `Resnet`
+ 
+- [Radar threat detection](https://github.com/osirisax/Radar-threat-detection)
+  - `Signal Processing` `Machine learning` `sklearn` `tsfresh` 
+  
