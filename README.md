@@ -2,7 +2,7 @@
 
 👨‍💻 MSc  student in MVA ["Mathématiques (Mathematics), Vision (Vision), Apprentissage (Learning)"](https://www.master-mva.com/) @ [ENS-Paris-Saclay](https://ens-paris-saclay.fr/).  
 🎓 MEng in Civil Engineering at École des Mines de Saint-Étienne  
-- I am deeply passionate about Machine Learning and Deep Learning :bar_chart:, extremely fascinated by coding, and I really enjoy solving algorithmic problems :man_technologist:. I enjoy playing chess :chess_pawn: and watching series :clapper:.
+- I am deeply passionate about Machine Learning and Deep Learning and natural language processing :bar_chart:
 
 
 📧 [Email](mailto:oussama.el_yaakoubi@ens-paris-saclay.fr) | 📱 +33 752052519 | 🌐 [LinkedIn](https://www.linkedin.com/in/oussama-el-yaakoubi/)
@@ -12,25 +12,20 @@
 - **MSc in Applied Mathematics (MVA)**
   - École Normale Supérieure Paris-Saclay, Gif-sur-Yvette, France
   - Sep. 2023 -- Present
-  - Relevant Coursework: Convex Optimization, ML for Text and Graph Data, Deep Learning
-
 - **MEng in Civil Engineering**
   - École des Mines de Saint-Étienne, France
-  - Sep. 2021 -- June 2023
-  - Relevant Coursework: Probability Theory, Machine Learning, Optimization
 
 - **Classes préparatoires in Mathematics, Physics, Computer Science**
   - Lycée d'Excellence de Benguerir, Benguerir, Morocco
-  - Sep. 2019 -- June 2021
+ 
 
 ## Professional Experience
 
 - **NLP Research Intern**
   - UMR LIMOS Lab, Saint-Étienne, France
   - June 2023 -- Sep. 2023
-  - Conducted a comprehensive study to enhance ML methodologies for failure analysis in microelectronic systems.
-
-
+  - Conducted a comprehensive study to enhance Machine Learning methodologies for failure analysis in microelectronic systems, contributing to the development of more accurate and robust models for failure analysis.
+  -Evaluated the effectiveness of diverse pre-processing techniques and text data vectorization methods, resulting in a better latent representation of text data, thereby improving the system's ability to detect patterns in failure analysis
 ## Technical Skills
 
 - **Programming Languages**: Python, R, Java, C, SQL
